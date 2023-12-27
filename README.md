@@ -9,10 +9,10 @@
 
 [Solution](https://github.com/manoharsena/DAY-3/tree/main/Region)
 <br>
-![Output Screenshot](Falg_Output.JPG)
+![Output Screenshot] (Flag/Falg_Output.JPG)
 
 3. Use the same rest countries and print all countries names, regions, sub-regions and populations.
 
 [Solution](https://github.com/manoharsena/DAY-3/tree/main/Flag)
 <br>
-![Output Screenshot](Region_Output.JPG)
+![(Region_Output.JPG)](Region/Region_Output.JPG)
